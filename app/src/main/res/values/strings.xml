@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="login">Login</string>
+    <string name="nama">Nama</string>
+    <string name="logout">Logout</string>
+    <string name="hasil">hasil</string>
+    <string name="description">description</string>
+    <string-array name="judul_music">
+        <item>00:00</item>
+        <item>Microcosmos</item>
+        <item>Young Forever</item>
+        <item>Crystal Snow</item>
+        <item>Still With You</item>
+        <item>Magic Shop</item>
+        <item>Love Maze</item>
+        <item>Hold Me Tight</item>
+        <item>Film Out</item>
+        <item>Butter</item>
+        <item>Good Day</item>
+        <item>Life Goes On</item>
+        <item>Home</item>
+        <item>Dimple</item>
+        <item>Epiphany</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>00:00 (Zero OClock): Lagu ini termasuk dalam album "Map
+            of the Soul: 7" dan berbicara tentang harapan untuk
+            mengatasi kesulitan dan memulai ulang hidup pada pukul 00:00.</item>
+        <item>Lagu ini muncul dalam album "Map of the Soul: Persona"
+            dan menggambarkan hubungan erat antara BTS dan penggemar mereka, ARMY.
+            Pesan utamanya adalah bahwa di dalam hubungan ini, setiap individu
+            membentuk semacam 'alam semesta kecil' yang indah.</item>
+        <item>"Forever Young" adalah salah satu lagu dari album "Youth"
+            yang dirilis oleh BTS pada tahun 2016. Lagu ini membahas
+            semangat untuk tetap muda dalam hati dan hidup.</item>
+        <item>Crystal Snow: Lagu ini merupakan singel Jepang dan menyentuh
+            tema cinta yang penuh kehangatan di tengah musim dingin.
+            Liriknya membicarakan tentang keindahan dan keabadian cinta.</item>
+        <item>Still With You: Sebuah lagu solo oleh Jungkook yang
+            dirilis pada tahun 2020. Lagu ini ditulis oleh Jungkook
+            sendiri dan merupakan ungkapan cinta kepada para penggemar.</item>
+        <item>Magic Shop: Lagu ini termasuk dalam album "Love Yourself: Tear"
+            dan menampilkan pesan dukungan dari BTS kepada para penggemar
+            mereka, diwujudkan sebagai tempat magis di mana mereka dapat
+            menemukan kenyamanan dan dukungan.</item>
+        <item>Love Maze: Lagu ini termasuk dalam album
+            "Love Yourself: Tear" dan membahas perjalanan mencari cinta
+            yang sejati. Liriknya menggambarkan kerumitan hubungan dan
+            mencari jalan melalui labirin cinta.</item>
+        <item>Hold Me Tight: Lagu ini termasuk dalam album
+            "The Most Beautiful Moment in Life, Part 1" dan
+            mengekspresikan perasaan kecemasan dan keinginan untuk
+            mempertahankan hubungan yang berharga.</item>
+        <item>Film Out: Lagu ini dirilis pada tahun 2021
+            dan menjadi bagian dari proyek Jepang BTS.
+            Liriknya berbicara tentang kehilangan dan nostalgia.</item>
+        <item>Butter: Merupakan singel yang dirilis pada tahun 2021.
+            Lagu ini menjadi hit besar dengan nada yang ceria dan
+            energik, menyampaikan pesan cinta dengan gaya yang ringan.</item>
+        <item>Good Day: Merupakan salah satu lagu dari album
+            "Love Yourself: Answer." Liriknya mengeksplorasi
+            tema kebahagiaan dan menemukan keindahan dalam setiap hari.</item>
+        <item>Life Goes On: Ini adalah judul lagu dari album
+            "BE" yang dirilis pada tahun 2020. Lagu ini menghadirkan
+            pesan positif dan optimisme, terutama dalam menghadapi
+            kesulitan dan perubahan dalam kehidupan.</item>
+        <item>Home: Lagu ini termasuk dalam album
+            "Map of the Soul: Persona." Liriknya berbicara tentang
+            kerinduan dan keinginan untuk kembali ke rumah, baik
+            secara fisik maupun emosional.</item>
+        <item>Dimple: Juga dikenal dengan judul "Illegal,"
+            lagu ini ada dalam album "Love Yourself: Her."
+            Liriknya berbicara tentang perasaan cinta dan daya
+            tarik yang tidak dapat dihindari.</item>
+        <item>Epiphany: Lagu ini merupakan bagian
+            dari album "Love Yourself: Answer" dan
+            dinyanyikan oleh Jin. Liriknya mencerminkan perjalanan
+            pribadi menuju self-love dan pemahaman tentang nilai diri.</item>
+
+    </string-array>
+    <array name="music_id">
+        <item>@raw/zeroclock</item>
+        <item>@raw/microcosmos</item>
+        <item>@raw/youngforever</item>
+        <item>@raw/crystalsnow</item>
+        <item>@raw/stillwu</item>
+        <item>@raw/stillwu</item>
+        <item>@raw/lovemaze</item>
+        <item>@raw/holdmetight</item>
+        <item>@raw/filmout</item>
+        <item>@raw/goodday</item>
+        <item>@raw/butter</item>
+        <item>@raw/lifegoeson</item>
+        <item>@raw/home</item>
+        <item>@raw/dimple</item>
+        <item>@raw/epiphany</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/zeroclok</item>
+        <item>@drawable/microcosmos</item>
+        <item>@drawable/youngforever</item>
+        <item>@drawable/crystalsnow</item>
+        <item>@drawable/stillwu</item>
+        <item>@drawable/magicshop</item>
+        <item>@drawable/lovemaze</item>
+        <item>@drawable/holdmetight</item>
+        <item>@drawable/filmout</item>
+        <item>@drawable/butter</item>
+        <item>@drawable/goodday</item>
+        <item>@drawable/lifegoeson</item>
+        <item>@drawable/home</item>
+        <item>@drawable/dimple</item>
+        <item>@drawable/epiphany</item>
+
+    </integer-array>
+</resources>
